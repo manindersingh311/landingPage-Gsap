@@ -5,11 +5,11 @@ const navLinks = [
   },
   {
     id: "about",
-    title: "About Us",
+    title: "About",
   },
   {
     id: "art",
-    title: "The Art",
+    title: "Art",
   },
   {
     id: "menu",
